@@ -6,11 +6,14 @@ Proyek ini menggunakan Arduino untuk mengukur jarak menggunakan sensor ultrasoni
 
 ## Komponen
 
-- Papan Arduino (misalnya, Arduino Uno)
-- Sensor Ultrasonik HC-SR04
-- Ethernet Shield (W5100)
-- Kabel jumper
-- Breadboard
+•	Arduino Uno
+•	LED-BIGY
+•	Ground
+•	Power
+•	ENC28J60
+•	ULTRASONIC SENSOR
+•	POT-HG
+
 
 ## Pemasangan
 
